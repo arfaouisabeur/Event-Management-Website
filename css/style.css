@@ -706,6 +706,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   overflow: hidden;
   margin-bottom: 30px;
+      max-width: 80%;
+    margin-inline: auto;
 }
 
 #speakers .speaker .details {
